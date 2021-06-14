@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Czterydler2.0/static/css/main.b54c2c06.chunk.css",
+    "main.js": "/Czterydler2.0/static/js/main.00af6a68.chunk.js",
+    "main.js.map": "/Czterydler2.0/static/js/main.00af6a68.chunk.js.map",
+    "runtime-main.js": "/Czterydler2.0/static/js/runtime-main.ec8a9e75.js",
+    "runtime-main.js.map": "/Czterydler2.0/static/js/runtime-main.ec8a9e75.js.map",
+    "static/js/2.5a25999f.chunk.js": "/Czterydler2.0/static/js/2.5a25999f.chunk.js",
+    "static/js/2.5a25999f.chunk.js.map": "/Czterydler2.0/static/js/2.5a25999f.chunk.js.map",
+    "index.html": "/Czterydler2.0/index.html",
+    "static/css/main.b54c2c06.chunk.css.map": "/Czterydler2.0/static/css/main.b54c2c06.chunk.css.map",
+    "static/js/2.5a25999f.chunk.js.LICENSE.txt": "/Czterydler2.0/static/js/2.5a25999f.chunk.js.LICENSE.txt",
+    "static/media/done.dcc01670.jpg": "/Czterydler2.0/static/media/done.dcc01670.jpg",
+    "static/media/login.efd5b860.jpg": "/Czterydler2.0/static/media/login.efd5b860.jpg",
+    "static/media/registration.d514e229.jpg": "/Czterydler2.0/static/media/registration.d514e229.jpg",
+    "static/media/todolist.81300eb6.jpg": "/Czterydler2.0/static/media/todolist.81300eb6.jpg",
+    "static/media/writting.03bbbb93.jpg": "/Czterydler2.0/static/media/writting.03bbbb93.jpg",
+    "static/media/wrong_tab.b1ee3c63.png": "/Czterydler2.0/static/media/wrong_tab.b1ee3c63.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec8a9e75.js",
+    "static/js/2.5a25999f.chunk.js",
+    "static/css/main.b54c2c06.chunk.css",
+    "static/js/main.00af6a68.chunk.js"
+  ]
+}
